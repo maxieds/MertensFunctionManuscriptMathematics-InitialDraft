@@ -1,2 +1,7 @@
-# MertensFunctionManuscriptMathematics
-Typeset sources and related information/documents about my (most likely) last academic manuscript. For extremely unfair reasons, I will not pursue other outlets to publish this material. See preprint archival copy: https://arxiv.org/abs/2102.05842
+# Mertens Function Manuscript (penultimate task with Georgia Tech in mathematics)
+
+Some email correspondence to include in the referee responses section:
+* BB email about retracting submission from SJM at JNT
+* JNT withdrawal confirmation (+ JL message to me minutes afterwards)
+* Kevin Ford initial rudeness
+* Paul Pollack: Suggestion to change universities for my Ph.D. in math
