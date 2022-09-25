@@ -7,6 +7,7 @@ Some email correspondence to include in the referee responses section:
 * Paul Pollack: Suggestion to change universities for my Ph.D. in math
 * SJM email about COVID (+ Android BugReport data)
 * SJM LinkedIn message with Lacey text messages ???
+* Tilings (survey) article with JA (to EJC ???) : Similarly, unfair review process.
 * EC email with insults about Wikipedia (+ attachment)
 * Lacey emails from GT and GMail
 * YouTube video links (x2: Phone call and inappropriate behavior at my oral exam)
