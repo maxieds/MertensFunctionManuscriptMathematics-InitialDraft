@@ -12,4 +12,4 @@
 * :black_square_button: Lacey emails from GT and GMail
 * :black_square_button: YouTube video links (x2: Phone call and inappropriate behavior at my oral exam)
 * :black_square_button: ``prior-revisions/``: Get original genesis notes to EC from my first semester at GT in the Fall of 2017.
-* :black_square_button: TODO: Update the keywords on the sidebar for the main repository
+* :white_check_mark: TODO: Update the keywords on the sidebar for the main repository
