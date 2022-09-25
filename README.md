@@ -11,4 +11,4 @@ Some email correspondence to include in the referee responses section:
 * EC email with insults about Wikipedia (+ attachment)
 * Lacey emails from GT and GMail
 * YouTube video links (x2: Phone call and inappropriate behavior at my oral exam)
-* Lacey Annals paper retraction with counterexample in 'Flatland' ('Start there and work your way up' ...); He drew two elliptically shaped oblong surfaces and then dotted them with no other explanation (as though they were breasts); Quit smoking (women that smoke): One female student of his stopped smoking, I had the opinion: 'Ugh! For NO man!'.
+* ``prior-revisions/``: Get original genesis notes to EC from my first semester at GT in the Fall of 2017.
