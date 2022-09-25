@@ -12,3 +12,4 @@ Some email correspondence to include in the referee responses section:
 * Lacey emails from GT and GMail
 * YouTube video links (x2: Phone call and inappropriate behavior at my oral exam)
 * ``prior-revisions/``: Get original genesis notes to EC from my first semester at GT in the Fall of 2017.
+* TODO: Update the keywords on the sidebar for the main repository
